@@ -1,53 +1,71 @@
-# Hi there! 👋 Welcome to My GitHub Profile
+# Scientific Calculator using Java Swing
 
-I'm a **Software Developer** specializing in **Artificial Intelligence** ,**Data Science** and other Java-based technologies. I love creating dynamic, user-friendly interfaces and building projects that solve real-world problems.
+Welcome to the repository for my **Scientific Calculator** project! This application is built using **Java Swing** and provides an intuitive interface for performing complex mathematical calculations.
 
 ---
 
-## 🚀 About Me
-- 💻 I have hands-on experience in building GUI applications using **Java Swing**.
-- 🔧 Skilled in developing desktop applications like **To-Do Lists** and **Scientific Calculators**.
-- 🌱 Currently learning advanced Java frameworks to further enhance my skills.
-- 🎯 Passionate about crafting clean, efficient, and reusable code.
-- 🌟 Enthusiastic about open-source contributions and collaborative projects.
+## 🚀 Project Overview
+This **Scientific Calculator** allows users to:
+- Perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+- Execute advanced functions such as trigonometry, logarithms, and exponential calculations.
+- Handle complex expressions with ease using the **exp4j library**.
+- View a history of calculations performed during the session.
 
 ---
 
 ## 🛠️ Tech Stack
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Libraries & Frameworks:
 ![Swing](https://img.shields.io/badge/Swing-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%2343853D.svg?style=for-the-badge&logo=java&logoColor=white)
 ![exp4j](https://img.shields.io/badge/exp4j-%2343853D.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-## 🖥️ Featured Projects
-### 1. **To-Do List Application**
-A sleek and intuitive desktop app for managing daily tasks efficiently.
-
-![To-Do App Screenshot](https://via.placeholder.com/800x400.png?text=To-Do+App+Screenshot)
-
-[🔗 View Project Repository](#)
-
-### 2. **Scientific Calculator**
-A Java Swing-based calculator that supports complex functions like trigonometry, logarithms, and more.
-
-![Calculator Screenshot](https://via.placeholder.com/800x400.png?text=Calculator+Screenshot)
-
-[🔗 View Project Repository](#)
+## 🎨 Application Interface
+![Calculator Screenshot](![WhatsApp Image 2025-01-25 at 11 24 09](https://github.com/user-attachments/assets/c0e0081e-cebc-43d2-b842-8bb8678fc695)
+)
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: [your-email@example.com](pandeydeepasunil@gmail.com)
-- 💼 LinkedIn: [your-linkedin-profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/deepa-pandey-74a5b733b))
+## 📂 Project Structure
+The repository includes the following files:
+- **Main.java**: The entry point for the application.
+- **CalculatorUI.java**: Defines the graphical user interface.
+- **CalculatorLogic.java**: Handles all the mathematical computations.
 
 ---
 
-## 🤝 Let's Collaborate
-I'm always open to collaborating on Java-based projects or exploring innovative ideas. Feel free to reach out and connect!
+## 🧰 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/scientific-calculator.git
+   ```
+2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse).
+3. Compile and run the `Main.java` file.
+
+---
+
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepa-Pandey6030&layout=compact&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+- 📧 Email: (pandeydeepasunil@gmail.com)
+- 💼 LinkedIn: ([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/deepa-pandey-74a5b733b))
+
+---
+
+## 🤝 Contributions
+Contributions are welcome! If you have suggestions or want to add new features, feel free to create a pull request.
+
+---
+
+## ⭐ Acknowledgments
+Special thanks to the **exp4j** library for simplifying expression evaluation in Java.
+
